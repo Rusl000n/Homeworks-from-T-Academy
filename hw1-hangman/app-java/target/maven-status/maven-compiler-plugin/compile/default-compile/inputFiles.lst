@@ -1,0 +1,11 @@
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/GameEngine.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/StartGallowsGame.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/Utils/ConstantsGallows.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/Utils/GameDifficulty.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/Utils/UtilsGallows.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/Utils/WordDifficulty.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/Utils/WordEntry.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/dataBase/Dictionary.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/dataBase/YamlDictionary.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/iomodule/GallowsRenderer.java
+/Users/ruslan/IdeaProjects/hw1-hangman/app-java/src/main/java/gallowsGame/iomodule/IOModule.java

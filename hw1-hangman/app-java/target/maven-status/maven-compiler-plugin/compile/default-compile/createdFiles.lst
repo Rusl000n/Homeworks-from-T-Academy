@@ -1,0 +1,11 @@
+src/main/java/gallowsGame/dataBase/Dictionary.class
+src/main/java/gallowsGame/Utils/GameDifficulty.class
+src/main/java/gallowsGame/Utils/UtilsGallows.class
+src/main/java/gallowsGame/StartGallowsGame.class
+src/main/java/gallowsGame/Utils/ConstantsGallows.class
+src/main/java/gallowsGame/dataBase/YamlDictionary.class
+src/main/java/gallowsGame/iomodule/GallowsRenderer.class
+src/main/java/gallowsGame/Utils/WordEntry.class
+src/main/java/gallowsGame/GameEngine.class
+src/main/java/gallowsGame/iomodule/IOModule.class
+src/main/java/gallowsGame/Utils/WordDifficulty.class

@@ -1,0 +1,8 @@
+gallowsGame/TestValidWord.class
+gallowsGame/TestIncorrectAttempt.class
+src/test/java/gallowsGame/IOTests.class
+src/test/java/gallowsGame/TestDictionary.class
+src/test/java/gallowsGame/TestRandomHint.class
+gallowsGame/StartGameBot.class
+gallowsGame/TestRenderGallows.class
+gallowsGame/TestLetterAttempt.class
