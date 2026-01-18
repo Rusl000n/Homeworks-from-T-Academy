@@ -1,0 +1,49 @@
+{
+    "size": {
+        "width": 4000,
+        "height": 3000
+    },
+    "iteration_count": 5000000,
+    "output_path": "turtle.png",
+    "threads": 4,
+    "seed": 300,
+    "functions": [
+        {
+            "name": "horseshoe",
+            "weight": 0.7
+        },
+        {
+            "name": "linear",
+            "weight": 0.3
+        }
+    ],
+    "affine_params": [
+        {
+            "a": -0.9,
+            "b": 0.1,
+            "c": 0.0,
+            "d": 0.1,
+            "e": 0.9,
+            "f": 0.0,
+            "color": -15395336
+        },
+        {
+            "a": 0.5,
+            "b": 0.5,
+            "c": 0.5,
+            "d": -0.5,
+            "e": 0.5,
+            "f": 0.0,
+            "color": -16751616
+        },
+        {
+            "a": 0.2,
+            "b": 0.0,
+            "c": -0.8,
+            "d": 0.0,
+            "e": 0.2,
+            "f": 0.4,
+            "color": -16777036
+        }
+    ]
+}
